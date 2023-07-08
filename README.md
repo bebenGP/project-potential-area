@@ -106,6 +106,7 @@ Data diolah menggunakan function st_geometry untuk mengagregasikan data ke dalam
 
 ## Pengolahan Data di ArcGIS 
 Data diolah untuk mendapatkan data dasar berupa "Generate Polygon Hexagon"
+![attachments/2023-07-09 02_06_57-arcgis.png](https://github.com/bebenGP/project-potential-area/blob/main/attachments/2023-07-09%2002_06_57-arcgis.png)
 
 
 ## Spatial Analysist use ArcPy
